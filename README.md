@@ -4,13 +4,13 @@ Realtime Emotion Detection Using Keras
 The program is trained for 100 epochs
 
 # ✔Requirements:
-- numpy
-- pandas
-- tensorflow
-- keras
-- openCV python
+      - numpy
+    - pandas
+    - tensorflow
+    - keras
+    - openCV python
 
--Download kaggle dataset from here: <br>
+-Download kaggle dataset from here: 
 => https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 
