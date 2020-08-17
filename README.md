@@ -4,7 +4,7 @@ Realtime Emotion Detection Using Keras
 The program is trained for 100 epochs
 
 # ✔Requirements:
-      - numpy
+    - numpy
     - pandas
     - tensorflow
     - keras
