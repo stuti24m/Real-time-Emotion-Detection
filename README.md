@@ -22,5 +22,5 @@ The program is trained for 100 epochs
 
 - Then run Video tester.ipynb
 
-
+<br>
 Explore the project to get real-time emotion detection ❤
